@@ -1,0 +1,11 @@
+// Métodos HTTP: GET, POST, PUT, DELETE
+
+// Tipos de parâmetros:
+
+// Query Params: request.query (Filtros, Ordenação, Paginação, ...)
+// Route Params: request.params (Identificar um recurso na alteração ou remoção)
+// Body: request.body (Dados para criação ou alteração de um registro)
+
+
+// Normalmente tem 5 tipos de Controles
+// Index (Listar), Show(Mostrar unico), Store(Criar), Update(Alterar), Destroy(Deletar)
