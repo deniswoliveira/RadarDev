@@ -1,3 +1,9 @@
-// Componente
-// Estado
-// Propriedade
+// Componente - 
+    Função que retorna algum conteudo web (html - CSS - JS) 
+    Um Componente por arquivo.
+    Bloco isolado de HTML, CSS e JS, o qual não interfere no restante da aplicação
+// Propriedade - 
+    Informações que um componente PAI passa para o componente FILHO
+// Estado - 
+    Informações mantidas pelo componente (Lembrar: imutabilidade)
+
