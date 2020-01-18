@@ -9,3 +9,4 @@
 
 // Normalmente tem 5 tipos de Controles
 // Index (Listar), Show(Mostrar unico), Store(Criar), Update(Alterar), Destroy(Deletar)
+
